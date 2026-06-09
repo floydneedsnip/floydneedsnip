@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: #f5efe6;
+    color: #2b2118;
+    line-height: 1.7;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #4d3b2b;
+}
+
+p, li {
+    font-size: 1.1rem;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.hero {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.tagline {
+    font-style: italic;
+    font-size: 1.3rem;
+}
+
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #4d3b2b;
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+}
+
+.button:hover {
+    opacity: 0.9;
+}
